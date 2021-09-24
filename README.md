@@ -2,7 +2,7 @@ xxxxxTyper Testerxxxxx
 
 what is the USE?
 {
-    $  from this you can increase your typing field
+    $  from this you can increase your typing speed
 }
 
 ********************************************
